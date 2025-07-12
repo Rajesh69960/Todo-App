@@ -33,4 +33,4 @@ A simple and responsive Todo application built with React. It allows users to ad
 ### Running Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/todo-react-app.git
+git clone https://github.com/Rajesh69960/Todo-App/tree/main
